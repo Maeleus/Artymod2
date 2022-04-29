@@ -48,7 +48,7 @@
 			"Consumes [1] Oil"
 		],
 	  	"attackSound": "arrow"
-  	},	
+  	}	
 	//{
 		//"name": "Atomic Cannon",
 		//"unitType": "Ranged",
