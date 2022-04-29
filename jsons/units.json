@@ -66,18 +66,5 @@
 	  	"promotions": ["Indirect Fire"],
 		"uniques": ["Ignores terrain cost","[-1] Sight","[+200]% <vs [cities]>","No defensive terrain bonus","Must set up to ranged attack","Consumes [1] [Iron]"],
 	  	"attackSound": "arrow"
-  	},
-	//{
-		//"name": "Atomic Cannon",
-		//"unitType": "Ranged",
-		//"range": 6,
-		//"movement": 2,
-		//"strength": 40,
-		//"rangedStrength": 200,
-		//"cost": 750,
-		//"requiredTech": "Nuclear Fission",
-		//"promotions": ["Indirect Fire"],
-		//"uniques": ["[-1] Sight","No defensive terrain bonus","Must set up to ranged attack","Nuclear Weapon of Strength [1]","Only Available <if [Manhattan Project] is constructed>","Blast Radius [2]","Consumes [1] [Uranium]"],
-		//"attackSound": "machinegun"
-	//}
+  	}
 ]
