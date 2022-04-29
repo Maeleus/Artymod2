@@ -49,6 +49,7 @@
 		],
 	  	"attackSound": "arrow"
   	},
+/*	
 	{
 		"name": "Atomic Cannon",
 		"unitType": "Ranged",
@@ -71,5 +72,5 @@
 		"obsoleteTech": "Advanced Ballistics",
 		"attackSound": "machinegun"
 	}
-
+/*
 ]
