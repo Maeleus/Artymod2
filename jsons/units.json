@@ -57,8 +57,7 @@
 		"strength": 40,
 		"rangedStrength": 200,
 		"cost": 750,
-		"requiredTech": "Dynamite",
-		"upgradesTo": "Rocket Artillery",
+		"requiredTech": "Atomic Theory",
 		"promotions": ["Indirect Fire"],
 		"uniques": [
 			"Consumes [1] Uranium",
