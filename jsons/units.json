@@ -41,10 +41,11 @@
 	  	"promotions": ["Indirect Fire"],
 		"uniques": [
 			"Ignores terrain cost",
-			"[-1] Sight","[+200]% <vs [cities]>",
+			"[-1] Sight",
+			"[+200]% <vs [cities]>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
-			"Consumes [1] [Oil]"
+			"Consumes [1] [Iron]"
 		],
 	  	"attackSound": "arrow"
   	},
