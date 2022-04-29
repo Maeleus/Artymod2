@@ -58,7 +58,6 @@
 		//"rangedStrength": 200,
 		//"cost": 750,
 		//"requiredTech": "Atomic Theory",
-		//"promotions": ["Indirect Fire"],
 		//"uniques": [
 		//	"Consumes [1] Uranium",
 		//	"[-1] Sight",
