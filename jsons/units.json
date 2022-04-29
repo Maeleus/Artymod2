@@ -34,7 +34,7 @@
 		"strength": 25,
 		"rangedStrength": 50,
 		"cost": 390,
-		"requiredTech": "Dynamite",
+		"requiredTech": "Ballistics",
 		"upgradesTo": "Rocket Artillery",
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"obsoleteTech": "Rocketry",
