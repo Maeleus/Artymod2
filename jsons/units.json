@@ -56,7 +56,7 @@
 		"strength": 40,
 		"rangedStrength": 200,
 		"cost": 750,
-		"requiredTech": "Atomic Theory",
+		"requiredTech": "Nuclear Fission",
 		"promotions": ["Indirect Fire"],
 		"uniques": [
 			"[-1] Sight",
@@ -67,7 +67,6 @@
 			"Blast Radius [2]",
 			"Consumes [1] [Uranium]"
 		],
-		"obsoleteTech": "Advanced Ballistics",
 		"attackSound": "machinegun"
 	}
 ]
