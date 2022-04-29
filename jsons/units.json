@@ -56,7 +56,7 @@
 		"name": "Siege Mortar",
 	  	"unitType": "Ranged",
 		"range": 4,
-		"movement": 1,
+		"movement": 2,
 		"strength": 20,
 		"rangedStrength": 40,
 		"cost": 500,
@@ -64,7 +64,7 @@
 		"upgradesTo": "Rocket Artillery",
 		"obsoleteTech": "Rocketry",
 	  	"promotions": ["Indirect Fire"],
-		"uniques": ["Ignores terrain cost","[-1] Sight","[+200]% <vs [cities]>","No defensive terrain bonus","Must set up to ranged attack","Consumes [1] [Iron]"],
+		"uniques": ["[-1] Sight","[+200]% <vs [cities]>","No defensive terrain bonus","Must set up to ranged attack","Consumes [1] [Iron]"],
 	  	"attackSound": "arrow"
   	}
 ]
