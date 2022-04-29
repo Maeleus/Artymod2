@@ -28,27 +28,27 @@
 		"obsoleteTech": "Rocketry",
 		"attackSound": "machinegun"
 	},
-	{
-		"name": "Siege Mortar",
-	  	"unitType": "Ranged",
-		"range": 4,
-		"movement": 1,
-		"strength": 20,
-		"rangedStrength": 40,
-		"cost": 500,
-		"requiredTech": "Dynamite",
-		"upgradesTo": "Rocket Artillery",
-		"obsoleteTech": "Rocketry",
-		"promotions": ["Indirect Fire"],
-	  	"uniques": [
-			"Ignores terrain cost",
-			"[-1] Sight","[+200]% <vs [cities]>",
-			"No defensive terrain bonus",
-			"Must set up to ranged attack",
-			"Consumes [1] Oil"
-		],
-	  	"attackSound": "arrow"
-  	}	
+	//{
+		//"name": "Siege Mortar",
+	  	//"unitType": "Ranged",
+		//"range": 4,
+		//"movement": 1,
+		//"strength": 20,
+		//"rangedStrength": 40,
+		//"cost": 500,
+		//"requiredTech": "Dynamite",
+		//"upgradesTo": "Rocket Artillery",
+		//"obsoleteTech": "Rocketry",
+		//"promotions": ["Indirect Fire"],
+	  	//"uniques": [
+		//	"Ignores terrain cost",
+		//	"[-1] Sight","[+200]% <vs [cities]>",
+		//	"No defensive terrain bonus",
+		//	"Must set up to ranged attack",
+		//	"Consumes [1] Oil"
+		//],
+	  	//"attackSound": "arrow"
+  	//}	
 	//{
 		//"name": "Atomic Cannon",
 		//"unitType": "Ranged",
@@ -59,7 +59,6 @@
 		//"cost": 750,
 		//"requiredTech": "Atomic Theory",
 		//"uniques": [
-		//	"Consumes [1] Uranium",
 		//	"[-1] Sight",
 		//	"No defensive terrain bonus",
 		//	"Must set up to ranged attack",
