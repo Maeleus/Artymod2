@@ -39,7 +39,7 @@
 		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
 		"obsoleteTech": "Rocketry",
-		//"promotions": ["Indirect Fire"],
+		"promotions": ["Indirect Fire"],
 	  	"uniques": [
 			"Ignores terrain cost",
 			"[-1] Sight","[+200]% <vs [cities]>",
