@@ -1,18 +1,18 @@
 [
-  	{
-		"name": "Mortar",
-		"unitType": "Ranged",
-		"range": 2,
-		"movement": 2,
-		"strength": 15,
-		"rangedStrength": 30,
-		"cost": 225,
-		"requiredTech": "Industialization",
-		"upgradesTo": "Howitzer",
-		"uniques": ["Ranged attacks may be performed over obstacles"],
-		"obsoleteTech": "Dynamite",
-		"attackSound": "machinegun"
-	}
+  	//{
+		//"name": "Mortar",
+		//"unitType": "Ranged",
+		//"range": 2,
+		//"movement": 2,
+		//"strength": 15,
+		//"rangedStrength": 30,
+		//"cost": 225,
+		//"requiredTech": "Industialization",
+		//"upgradesTo": "Howitzer",
+		//"uniques": ["Ranged attacks may be performed over obstacles"],
+		//"obsoleteTech": "Dynamite",
+		//"attackSound": "machinegun"
+	//}
 	//{
 		//"name": "Howitzer",
 		//"unitType": "Ranged",
