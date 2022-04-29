@@ -27,7 +27,7 @@
 		"obsoleteTech": "Rocketry",
 		"attackSound": "machinegun"
 	},
-	/*{
+	{
 		"name": "Siege Mortar",
 	  	"unitType": "Ranged",
 		"range": 4,
@@ -39,14 +39,7 @@
 		"upgradesTo": "Rocket Artillery",
 		"obsoleteTech": "Rocketry",
 	  	"promotions": ["Indirect Fire"],
-		"uniques": [
-			"Ignores terrain cost",
-			"[-1] Sight",
-			"[+200]% <vs [cities]>",
-			"No defensive terrain bonus",
-			"Must set up to ranged attack",
-			"Consumes [1] [Iron]"
-		],
+		"uniques": ["Ignores terrain cost","[-1] Sight","[+200]% <vs [cities]>","No defensive terrain bonus","Must set up to ranged attack","Consumes [1] [Iron]"],
 	  	"attackSound": "arrow"
   	},
 	{
@@ -59,15 +52,7 @@
 		"cost": 750,
 		"requiredTech": "Nuclear Fission",
 		"promotions": ["Indirect Fire"],
-		"uniques": [
-			"[-1] Sight",
-			"No defensive terrain bonus",
-			"Must set up to ranged attack",
-			"Nuclear Weapon of Strength [1]",
-			"Only Available <if [Manhattan Project] is constructed>",
-			"Blast Radius [2]",
-			"Consumes [1] [Uranium]"
-		],
+		"uniques": ["[-1] Sight","No defensive terrain bonus","Must set up to ranged attack","Nuclear Weapon of Strength [1]","Only Available <if [Manhattan Project] is constructed>","Blast Radius [2]","Consumes [1] [Uranium]"],
 		"attackSound": "machinegun"
-	}*/
+	}
 ]
