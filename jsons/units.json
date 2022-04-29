@@ -12,7 +12,7 @@
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"obsoleteTech": "Dynamite",
 		"attackSound": "machinegun"
-	}
+	},
 	{
 		"name": "Howitzer",
 		"unitType": "Ranged",
@@ -26,7 +26,7 @@
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"obsoleteTech": "Rocketry",
 		"attackSound": "machinegun"
-	}
+	},
 	{
 		"name": "Siege Mortar",
 	  	"unitType": "Ranged",
@@ -47,7 +47,7 @@
 			"Consumes [1] [Oil]"
 		],
 	  	"attackSound": "arrow"
-  	}
+  	},
 	{
 		"name": "Atomic Cannon",
 		"unitType": "Ranged",
