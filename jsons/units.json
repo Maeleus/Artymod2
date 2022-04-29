@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Crossbowman",
+		"unitType": "Ranged",
+		"range": 2,
+		"movement": 2,
+		"strength": 13,
+		"rangedStrength": 18,
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Mortar",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "arrow"
+	},
+  {
+    "name": "Siege Cannon",
+		"unitType": "Ranged",
+		"range": 2,
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 20,
+		"cost": 185,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Siege Mortar",
+		"obsoleteTech": "Dynamite",
+		"attackSound": "arrow"
+  },
+  {
+		"name": "Mortar",
+		"unitType": "Ranged",
+		"range": 2,
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 30,
+		"cost": 225,
+		"requiredTech": "Industialization",
+		"upgradesTo": "Howitzer",
+		"uniques": ["Ranged attacks may be performed over obstacles"],
+		"obsoleteTech": "Ballistics",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Howitzer",
+		"unitType": "Ranged",
+		"range": 2,
+		"movement": 2,
+		"strength": 25,
+		"rangedStrength": 50,
+		"cost": 390,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Rocket Artillery",
+		"uniques": ["Ranged attacks may be performed over obstacles"],
+		"obsoleteTech": "Rocketry",
+		"attackSound": "machinegun"
+	}
+]
