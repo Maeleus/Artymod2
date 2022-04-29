@@ -11,7 +11,7 @@
 		"requiredTech": "Industialization",
 		"upgradesTo": "Howitzer",
 		"uniques": ["Ranged attacks may be performed over obstacles"],
-		"obsoleteTech": "Ballistics",
+		"obsoleteTech": "Dynamite",
 		"attackSound": "machinegun"
 	},
 	{
@@ -35,12 +35,18 @@
 		"movement": 1,
 		"strength": 20,
 		"rangedStrength": 40,
-		"cost": 320,
+		"cost": 500,
 		"requiredTech": "Dynamite",
-		"upgradesTo": "Atomic Cannon",
+		"upgradesTo": "Rocket Artillery",
 		"obsoleteTech": "Rocketry",
 		"promotions": ["Indirect Fire"],
-	  	"uniques": ["Ignores terrain cost","[-1] Sight","[+200]% <vs [cities]>","No defensive terrain bonus","Must set up to ranged attack"],
+	  	"uniques": [
+			"Ignores terrain cost",
+			"[-1] Sight","[+200]% <vs [cities]>",
+			"No defensive terrain bonus",
+			"Must set up to ranged attack",
+			"Consumes [1] Oil"
+		],
 	  	"attackSound": "arrow"
   	},
 	{
@@ -50,7 +56,7 @@
 		"movement": 2,
 		"strength": 40,
 		"rangedStrength": 200,
-		"cost": 1000,
+		"cost": 750,
 		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
 		"promotions": ["Indirect Fire"],
@@ -59,7 +65,7 @@
 			"[-1] Sight",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
-			"Nuclear Weapon of Strength [1],
+			"Nuclear Weapon of Strength [1]",
 			"Only Available <if [Manhattan Project] is constructed>",
 			"Blast Radius [2]"
 		],
