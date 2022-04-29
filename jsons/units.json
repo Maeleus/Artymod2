@@ -48,29 +48,27 @@
 			"Consumes [1] Oil"
 		],
 	  	"attackSound": "arrow"
-  	},
-/*	
-	{
-		"name": "Atomic Cannon",
-		"unitType": "Ranged",
-		"range": 6,
-		"movement": 2,
-		"strength": 40,
-		"rangedStrength": 200,
-		"cost": 750,
-		"requiredTech": "Atomic Theory",
-		"promotions": ["Indirect Fire"],
-		"uniques": [
-			"Consumes [1] Uranium",
-			"[-1] Sight",
-			"No defensive terrain bonus",
-			"Must set up to ranged attack",
-			"Nuclear Weapon of Strength [1]",
-			"Only Available <if [Manhattan Project] is constructed>",
-			"Blast Radius [2]"
-		],
-		"obsoleteTech": "Advanced Ballistics",
-		"attackSound": "machinegun"
-	}
-*/
+  	},	
+	//{
+		//"name": "Atomic Cannon",
+		//"unitType": "Ranged",
+		//"range": 6,
+		//"movement": 2,
+		//"strength": 40,
+		//"rangedStrength": 200,
+		//"cost": 750,
+		//"requiredTech": "Atomic Theory",
+		//"promotions": ["Indirect Fire"],
+		//"uniques": [
+		//	"Consumes [1] Uranium",
+		//	"[-1] Sight",
+		//	"No defensive terrain bonus",
+		//	"Must set up to ranged attack",
+		//	"Nuclear Weapon of Strength [1]",
+		//	"Only Available <if [Manhattan Project] is constructed>",
+		//	"Blast Radius [2]"
+		//],
+		//"obsoleteTech": "Advanced Ballistics",
+		//"attackSound": "machinegun"
+	//}
 ]
