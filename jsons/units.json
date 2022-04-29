@@ -40,6 +40,7 @@
 		"obsoleteTech": "Rocketry",
 		"attackSound": "machinegun"
 	},
+	{
 		"name": "Cannon",
 		"unitType": "Ranged",
 		"range": 2,
@@ -52,6 +53,7 @@
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"obsoleteTech": "Dynamite",
 		"attackSound": "machinegun"
+	},
 	{
 		"name": "Siege Mortar",
 	  	"unitType": "Ranged",
@@ -60,8 +62,8 @@
 		"strength": 20,
 		"rangedStrength": 40,
 		"cost": 500,
-		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
+		"requiredTech": "Dynamite",
 		"obsoleteTech": "Rocketry",
 	  	"promotions": ["Indirect Fire"],
 		"uniques": ["[-1] Sight","[+200]% <vs [cities]>","No defensive terrain bonus","Must set up to ranged attack","Consumes [1] [Iron]"],
