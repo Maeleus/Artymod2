@@ -26,7 +26,7 @@
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"obsoleteTech": "Rocketry",
 		"attackSound": "machinegun"
-	},
+	}
 	//{
 		//"name": "Siege Mortar",
 	  	//"unitType": "Ranged",
