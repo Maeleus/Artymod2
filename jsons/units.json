@@ -27,7 +27,7 @@
 		"obsoleteTech": "Rocketry",
 		"attackSound": "machinegun"
 	},
-	{
+	/*{
 		"name": "Siege Mortar",
 	  	"unitType": "Ranged",
 		"range": 4,
@@ -69,5 +69,5 @@
 			"Consumes [1] [Uranium]"
 		],
 		"attackSound": "machinegun"
-	}
+	}*/
 ]
