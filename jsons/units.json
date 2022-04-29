@@ -1,31 +1,6 @@
 [
-	{
-		"name": "Crossbowman",
-		"unitType": "Ranged",
-		"range": 2,
-		"movement": 2,
-		"strength": 13,
-		"rangedStrength": 18,
-		"cost": 120,
-		"requiredTech": "Machinery",
-		"upgradesTo": "Mortar",
-		"obsoleteTech": "Industrialization",
-		"attackSound": "arrow"
-	},
-  {
-    "name": "Siege Cannon",
-		"unitType": "Ranged",
-		"range": 2,
-		"movement": 2,
-		"strength": 14,
-		"rangedStrength": 20,
-		"cost": 185,
-		"requiredTech": "Chemistry",
-		"upgradesTo": "Siege Mortar",
-		"obsoleteTech": "Dynamite",
-		"attackSound": "arrow"
-  },
-  {
+	
+  	{
 		"name": "Mortar",
 		"unitType": "Ranged",
 		"range": 2,
@@ -42,15 +17,54 @@
 	{
 		"name": "Howitzer",
 		"unitType": "Ranged",
-		"range": 2,
+		"range": 3,
 		"movement": 2,
 		"strength": 25,
 		"rangedStrength": 50,
 		"cost": 390,
-		"requiredTech": "Ballistics",
+		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"obsoleteTech": "Rocketry",
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Siege Mortar",
+	  	"unitType": "Ranged",
+		"range": 4,
+		"movement": 1,
+		"strength": 20,
+		"rangedStrength": 40,
+		"cost": 320,
+		"requiredTech": "Dynamite",
+		"upgradesTo": "Atomic Cannon",
+		"obsoleteTech": "Rocketry",
+		"promotions": ["Indirect Fire"],
+	  	"uniques": ["Ignores terrain cost","[-1] Sight","[+200]% <vs [cities]>","No defensive terrain bonus","Must set up to ranged attack"],
+	  	"attackSound": "arrow"
+  	},
+	{
+		"name": "Atomic Cannon",
+		"unitType": "Ranged",
+		"range": 6,
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 200,
+		"cost": 1000,
+		"requiredTech": "Dynamite",
+		"upgradesTo": "Rocket Artillery",
+		"promotions": ["Indirect Fire"],
+		"uniques": [
+			"Consumes [1] Uranium",
+			"[-1] Sight",
+			"No defensive terrain bonus",
+			"Must set up to ranged attack",
+			"Nuclear Weapon of Strength [1],
+			"Only Available <if [Manhattan Project] is constructed>",
+			"Blast Radius [2]"
+		],
+		"obsoleteTech": "Advanced Ballistics",
+		"attackSound": "machinegun"
 	}
+
 ]
