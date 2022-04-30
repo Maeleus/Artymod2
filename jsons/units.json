@@ -1,5 +1,5 @@
 [
-  	{
+	{
 		"name": "Crossbowman",
 		"unitType": "Ranged",
 		"range": 2,
@@ -20,16 +20,16 @@
 		"strength": 15,
 		"rangedStrength": 30,
 		"cost": 225,
-		"requiredTech": "Industialization",
+		"requiredTech": "Industrialization",
 		"upgradesTo": "Howitzer",
 		"uniques": ["Ranged attacks may be performed over obstacles"],
-		"obsoleteTech": "Dynamite",
+		"obsoleteTech": "Ballistics",
 		"attackSound": "machinegun"
 	},
 	{
 		"name": "Howitzer",
 		"unitType": "Ranged",
-		"range": 3,
+		"range": 2,
 		"movement": 2,
 		"strength": 25,
 		"rangedStrength": 50,
