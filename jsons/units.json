@@ -10,7 +10,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Mortar",
 		"obsoleteTech": "Industrialization",
-		"attackSound": "arrow",
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Mortar",
